@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'PermanentMarker';
-    src: url('./PermanentMarker.ttf') format('truetype');
+    src: url('./assets/PermanentMarker.ttf') format('truetype');
 }
 
 * {

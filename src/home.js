@@ -1,4 +1,4 @@
-import homeImg from './home.jpeg'
+import homeImg from './assets/home.jpeg'
 
 const home = () => {
 

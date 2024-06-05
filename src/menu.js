@@ -1,7 +1,7 @@
-import oneImg from './1.jpg'
-import twoImg from './2.jpg'
-import threeImg from './3.jpg'
-import fourImg from './4.jpg'
+import oneImg from './assets/1.jpg'
+import twoImg from './assets/2.jpg'
+import threeImg from './assets/3.jpg'
+import fourImg from './assets/4.jpg'
 
 const menu = () => {
     const content = document.querySelector(".content")
