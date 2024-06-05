@@ -6,20 +6,12 @@
     font-family: "Permanent Marker", cursive;
 }
 
-.heading {
+/* .heading {
     display: none;
-}
+} */
 
-.home {
+.hide {
     display: none;
-}
-
-.menu {
-    /* display: none; */
-}
-
-.contact {
-
 }
 
 body {
@@ -69,6 +61,7 @@ button:active {
 
 .heading span {
     font-size: 200px;
+    text-decoration: wavy #caac59;
 }
 
 h1 {
@@ -100,4 +93,13 @@ h1 {
     align-items: center;
     justify-content: center;
     gap: 80px;
+}
+
+.contact {
+    font-size: 70px;
+    text-align: center;
+}
+
+.contact-me {
+    font-size: 50px;
 }
