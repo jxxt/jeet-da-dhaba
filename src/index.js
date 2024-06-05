@@ -7,7 +7,7 @@ import menu from './menu';
 import contact from './contact';
 import buttonFunction from './button_function';
 
-
+import logo from './logo'
 
 button()
 heading()
@@ -15,6 +15,7 @@ home()
 menu()
 contact()
 buttonFunction()
+logo()
 
 
 
